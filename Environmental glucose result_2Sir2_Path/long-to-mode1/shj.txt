@@ -1,0 +1,4 @@
+num	M	a1	lambda	e_eff	x0	x1	x2	Shj	time
+21	41	1.1	1.0e+002	1.37	0.01	1.46	0.00	2.934390	0.930072
+num	M	a1	lambda	e_eff	x0	x1	x2	Shj	time
+21	41	1.1	1.0e+002	1.37	0.01	1.46	0.00	2.934390	0.930072
